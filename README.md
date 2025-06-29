@@ -24,11 +24,6 @@ Esta é uma ferramenta desktop simples e eficiente desenvolvida para **renomear 
 - Preparação de arquivos para sistemas que exigem nomes padronizados.
 - Renomeação rápida para distribuição ou importação em outros softwares de Karaokê.
 
-## ✅ Requisitos
-
-- Windows 10 ou superior.
-- .NET Desktop Runtime (caso necessário).
-
 ## 📌 Observações
 
 - Certifique-se de que os arquivos na pasta de origem estejam no formato suportado (ex: `.mp4`).
