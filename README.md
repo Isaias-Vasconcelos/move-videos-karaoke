@@ -2,7 +2,7 @@
 
 Esta é uma ferramenta desktop simples e eficiente desenvolvida para **renomear arquivos em lote**, ideal para quem trabalha com sistemas de Karaokê. A interface permite selecionar uma pasta com os arquivos, escolher uma pasta de destino e aplicar um contador nos nomes dos arquivos para facilitar a organização e indexação no catálogo de músicas.
 
-![Interface da ferramenta](./c4e50587-3a89-45ef-874f-602a3d2b4387.png)
+![image](https://github.com/user-attachments/assets/dc68bcef-6bfe-4f4f-88dc-81400bc55a90)
 
 ## 📦 Funcionalidades
 
