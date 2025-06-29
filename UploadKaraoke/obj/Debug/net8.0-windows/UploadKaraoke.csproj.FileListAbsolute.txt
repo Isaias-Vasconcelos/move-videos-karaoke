@@ -1,0 +1,17 @@
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\bin\Debug\net8.0-windows\UploadKaraoke.exe
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\bin\Debug\net8.0-windows\UploadKaraoke.deps.json
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\bin\Debug\net8.0-windows\UploadKaraoke.runtimeconfig.json
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\bin\Debug\net8.0-windows\UploadKaraoke.dll
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\bin\Debug\net8.0-windows\UploadKaraoke.pdb
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.Form1.resources
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.Properties.Resources.resources
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.csproj.GenerateResource.cache
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.AssemblyInfo.cs
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.dll
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\refint\UploadKaraoke.dll
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.pdb
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\UploadKaraoke.genruntimeconfig.cache
+C:\Users\isaia\source\repos\UploadKaraoke\UploadKaraoke\obj\Debug\net8.0-windows\ref\UploadKaraoke.dll
